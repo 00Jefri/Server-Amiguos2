@@ -72,3 +72,5 @@
 [20:16:05] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: e0b0761f-5bc2-4acf-bfc0-41ac2ef2d5fb, mapped to Pig['Pig'/209, uuid='e0b0761f-5bc2-4acf-bfc0-41ac2ef2d5fb', l='ServerLevel[world]', x=1252.27, y=72.00, z=204.76, cpos=[78, 12], tl=0, v=true], can't add Pig['Pig'/302, uuid='e0b0761f-5bc2-4acf-bfc0-41ac2ef2d5fb', l='ServerLevel[world]', x=1256.08, y=72.00, z=208.08, cpos=[78, 13], tl=0, v=false]
 [20:36:23] [Async Chat Thread - #0/INFO]: [Not Secure] <Chefri> 1220 27 35
 [20:57:22] [Server thread/INFO]: Chefri was shot by Skeleton
+[21:32:48] [Server thread/INFO]: Chefri has made the advancement [Ol' Betsy]
+[21:32:48] [Server thread/INFO]: Chefri has made the advancement [Take Aim]
