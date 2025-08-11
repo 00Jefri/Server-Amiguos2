@@ -29,3 +29,4 @@ difficult<--[HERE]
 [02:04:09] [User Authenticator #4/INFO]: UUID of player Chefri is 34b4bdde-e783-30cb-99b5-1d7564c66577
 [02:04:10] [Server thread/INFO]: Chefri joined the game
 [02:04:10] [Server thread/INFO]: Chefri[/127.255.241.128:35075] logged in with entity id 22347 at ([world]1286.3170900825664, 71.5625, 17.05180710541081)
+[02:08:55] [Server thread/INFO]: Gamerule doFireTick is now set to: false
