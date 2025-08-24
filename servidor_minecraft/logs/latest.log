@@ -69,3 +69,5 @@
 [00:53:58] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
 [00:53:59] [Server thread/INFO]: Chefri joined the game
 [00:53:59] [Server thread/INFO]: Chefri[/127.255.241.128:58221] logged in with entity id 17 at ([world]1328.4122070927388, 83.5, -153.79637958968192)
+[01:43:35] [Server thread/INFO]: Villager Villager['Farmer'/26, uuid='e55d7c54-fa56-4353-afaf-b81b6c3d221e', l='ServerLevel[world]', x=1333.10, y=81.56, z=-149.17, cpos=[83, -10], tl=56035, v=true] died, message: 'Farmer was slain by Zombie'
+[01:43:39] [Server thread/INFO]: Villager Villager['Farmer'/29, uuid='ac9433fb-5b78-4066-9db1-bd3826d88b8e', l='ServerLevel[world]', x=1332.65, y=80.94, z=-151.58, cpos=[83, -10], tl=56105, v=true] died, message: 'Farmer was slain by Zombie Villager'
