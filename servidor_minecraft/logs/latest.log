@@ -81,3 +81,38 @@
 [02:07:31] [Server thread/INFO]: Villager Villager['Villager'/8717, uuid='2ee2d1eb-2352-43a2-9dd6-230e047e6728', l='ServerLevel[world]', x=1693.91, y=69.31, z=-339.56, cpos=[105, -22], tl=18877, v=true] died, message: 'Villager was slain by Zombie Villager'
 [02:27:58] [Server thread/INFO]: Villager Villager['Farmer'/8713, uuid='01e73482-6908-478a-9fe2-c1eb25b08fea', l='ServerLevel[world]', x=1333.28, y=80.80, z=-155.96, cpos=[83, -10], tl=43427, v=true] died, message: 'Farmer tried to swim in lava'
 [02:50:27] [Server thread/INFO]: Villager Villager['Villager'/17262, uuid='b4f87993-8e1c-4660-a9ab-e8dc30dbca77', l='ServerLevel[world]', x=1328.45, y=74.94, z=-151.09, cpos=[83, -10], tl=2169, v=true] died, message: 'Villager was slain by Chefri'
+[03:03:13] [Server thread/INFO]: Chefri lost connection: Disconnected
+[03:03:13] [Server thread/INFO]: Chefri left the game
+[03:03:30] [Server thread/INFO]: Stopping server
+[03:03:30] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.8
+[03:03:30] [Server thread/INFO]: Saving players
+[03:03:30] [Server thread/INFO]: Saving worlds
+[03:03:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:03:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:03:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:03:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:03:30] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[03:03:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[03:03:30] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[03:03:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:03:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:03:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:03:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:03:30] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[03:03:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[03:03:30] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[03:03:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:03:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:03:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:03:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:03:30] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[03:03:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[03:03:30] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[03:03:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:03:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:03:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:03:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:03:30] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[03:03:30] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[03:03:30] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[03:03:30] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
